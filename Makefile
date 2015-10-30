@@ -1,4 +1,5 @@
 PIP := $(shell which pip)
+PYTHON := $(shell which python)
 
 setup:
 	-pyenv install 3.5.0
@@ -6,3 +7,6 @@ setup:
 
 install:
 	$(PIP) install -r pip-packages.txt
+
+server:
+	$(PYTHON) app.py
