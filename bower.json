@@ -1,5 +1,4 @@
 {
-  "name": "maff-analysis",
   "dependencies": {
     "bootstrap": "~3.3.5",
     "underscore": "~1.8.3",

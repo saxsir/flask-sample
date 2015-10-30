@@ -1,5 +1,7 @@
-maff-analysis
+flask-sample-app
 ===
+
+[Flask](http://flask.pocoo.org/)で簡単なWebアプリを作るサンプル
 
 # Requirements
 ```
