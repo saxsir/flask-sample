@@ -8,6 +8,12 @@ pyenv 20151006
 
 $ pyenv virtualenv --version
 pyenv-virtualenv 20151006
+
+$ node --version
+v4.2.1
+
+$ npm --version
+2.14.7
 ```
 
 - [pyenv](https://github.com/yyuu/pyenv)

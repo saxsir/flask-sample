@@ -1,5 +1,6 @@
 PIP := $(shell which pip)
 PYTHON := $(shell which python)
+NPM := $(shell which npm)
 
 setup:
 	-pyenv install 3.5.0
@@ -7,6 +8,7 @@ setup:
 
 install:
 	$(PIP) install -r pip-packages.txt
+	$(NPM) install
 
 server:
 	$(PYTHON) app.py

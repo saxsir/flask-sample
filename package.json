@@ -1,0 +1,9 @@
+{
+  "name": "maff-analysis",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bower": "^1.6.5"
+  }
+}
