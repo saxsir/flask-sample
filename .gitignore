@@ -3,3 +3,6 @@
 
 # npm
 node_modules/
+
+# bower
+static/bower_components/
