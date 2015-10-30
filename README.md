@@ -26,3 +26,6 @@ $ npm --version
 $ make setup
 $ make install
 ```
+
+# License
+MIT
